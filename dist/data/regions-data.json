@@ -1,0 +1,247 @@
+{
+    "type": "AWSRegionsCollection",
+    "regions": [
+        {
+            "name": "Cape Town",
+            "code": "af-south-1",
+            "full_name": "Africa (Cape Town)",
+            "ga": true,
+            "public": true,
+            "lat": "-33.924870",
+            "lng": "18.424055",
+            "zones": [
+                "af-south-1a",
+                "af-south-1b",
+                "af-south-1c"
+            ],
+            "connections":[
+                "eu-west-2"
+            ]
+        },
+        {
+            "name": "London",
+            "code": "eu-west-2",
+            "full_name": "EU (London)",
+            "ga": true,
+            "public": true,
+            "lat": "51.607351",
+            "lng": "-0.127758",
+            "zones": [
+                "eu-west-2a",
+                "eu-west-2b",
+                "eu-west-2c"
+            ],
+            "connections":[
+                "af-south-1"
+            ]
+        },
+        {
+            "name": "Ireland",
+            "code": "eu-west-1",
+            "full_name": "EU (Ireland)",
+            "ga": true,
+            "public": true,
+            "lat": "53.412910",
+            "lng": "-8.243890",
+            "zones": [
+                "eu-west-1a",
+                "eu-west-1b",
+                "eu-west-1c"
+            ],
+            "connections":[
+                
+            ]
+        },
+        {
+            "name": "Frankfurt",
+            "code": "eu-central-1",
+            "full_name": "EU (Frankfurt)",
+            "ga": true,
+            "public": true,
+            "lat": "50.110924",
+            "lng": "8.682127",
+            "zones": [
+                "eu-central-1a",
+                "eu-central-1b",
+                "eu-central-1c"
+            ],
+            "connections":[
+               
+            ]
+        },
+        {
+            "name": "Paris",
+            "code": "eu-west-3",
+            "full_name": "EU (Paris)",
+            "ga": true,
+            "public": true,
+            "lat": "48.456613",
+            "lng": "2.352222",
+            "zones": [
+                "eu-west-3a",
+                "eu-west-3b",
+                "eu-west-3c"
+            ],
+            "connections":[
+                
+            ]
+        },
+        {
+            "name": "Spain",
+            "code": "Spain",
+            "full_name": "EU (Spain)",
+            "ga": false,
+            "public": true,
+            "lat": "41.648823",
+            "lng": "-0.889085",
+            "zones": [
+            ],
+            "connections":[
+               
+            ]
+        },
+        {
+            "name": "Milan",
+            "code": "eu-south-1",
+            "full_name": "EU (Milan)",
+            "ga": true,
+            "public": true,
+            "lat": "45.064203",
+            "lng": "9.189982",
+            "zones": [
+                "eu-south-1a",
+                "eu-south-1b",
+                "eu-south-1c"
+            ],
+            "connections":[
+                "af-south-1"
+            ]
+        },
+        {
+            "name": "Stockholm",
+            "code": "eu-north-1",
+            "full_name": "EU (Stockholm)",
+            "ga": true,
+            "public": true,
+            "lat": "59.329323",
+            "lng": "18.068581",
+            "zones": [
+                "eu-north-1a",
+                "eu-north-1b",
+                "eu-north-1c"
+            ],
+            "connections":[
+              
+            ]
+        },
+        {
+            "name": "N. Virginia",
+            "code": "us-east-1",
+            "full_name": "US East (N. Virginia)",
+            "ga": true,
+            "public": true,
+            "lat": "37.442280",
+            "lng": "-76.420822",
+            "zones": [
+                "us-east-1a",
+                "us-east-1b",
+                "us-east-1c",
+                "us-east-1d",
+                "us-east-1e",
+                "us-east-1f"
+            ],
+            "connections":[
+              
+            ]
+        },
+        {
+            "name": "Ohio",
+            "code": "us-east-2",
+            "full_name": "US East (Ohio)",
+            "ga": true,
+            "public": true,
+            "lat": "40.417286",
+            "lng": "-82.907120",
+            "zones": [
+                "us-east-1a",
+                "us-east-1b",
+                "us-east-1c",
+                "us-east-1d",
+                "us-east-1e",
+                "us-east-1f"
+            ],
+            "connections":[
+              
+            ]
+        },
+        {
+            "name": "N. California",
+            "code": "us-west-1",
+            "full_name": "US West (N. California)",
+            "ga": true,
+            "public": true,
+            "lat": "38.837521",
+            "lng": "-120.895821",
+            "zones": [
+                "us-west-1a",
+                "us-west-1b",
+                "us-west-1c"
+            ],
+            "connections":[
+              
+            ]
+        },
+        {
+            "name": "Oregon",
+            "code": "us-west-2",
+            "full_name": "US West (Oregon)",
+            "ga": true,
+            "public": true,
+            "lat": "43.804134",
+            "lng": "-120.554199",
+            "zones": [
+                "us-west-2a",
+                "us-west-2b",
+                "us-west-2c",
+                "us-west-2d"
+            ],
+            "connections":[
+              
+            ]
+        },
+        {
+            "name": "GovCloud West",
+            "code": "us-gov-west-1",
+            "full_name": "AWS GovCloud (US-West)",
+            "ga": true,
+            "public": false,
+            "lat": "41.212441",
+            "lng": "-115.790710",
+            "zones": [
+                "us-gov-west-1a",
+                "us-gov-west-1b",
+                "us-gov-west-1c"
+            ],
+            "connections":[
+              
+            ]
+        },
+        {
+            "name": "GovCloud East",
+            "code": "us-gov-east-1",
+            "full_name": "AWS GovCloud (US-East)",
+            "ga": true,
+            "public": false,
+            "lat": "35.0",
+            "lng": "-84.091852",
+            "zones": [
+                "us-gov-east-1a",
+                "us-gov-east-1b",
+                "us-gov-east-1c"
+            ],
+            "connections":[
+              
+            ]
+        }
+    ]
+}
